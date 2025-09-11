@@ -1,0 +1,20 @@
+{"timestamp": "2025-09-11T04:38:56.578280", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm pattern in account name: ftmo", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578374", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm broker: purple trading", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578446", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 50000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578509", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 50000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578575", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 50000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578639", "level": "WARNING", "logger": "trading.prop_firm", "message": "Prop firm account detected: FTMO", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578696", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm pattern in account name: funded.*account", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578739", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm pattern in account name: mff", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578783", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm broker: eightcap", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578827", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 25000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578871", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 25000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578917", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 25000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578962", "level": "WARNING", "logger": "trading.prop_firm", "message": "Prop firm account detected: MyForexFunds", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.579317", "level": "WARNING", "logger": "trading.prop_firm", "message": "Daily loss limit exceeded", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:42.119750", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm pattern in account name: ftmo", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:42.119922", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm broker: purple trading", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:42.119992", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 50000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:42.120052", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 50000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:42.120106", "level": "INFO", "logger": "trading.prop_firm", "message": "Detected prop firm balance pattern: 50000", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:42.120164", "level": "WARNING", "logger": "trading.prop_firm", "message": "Prop firm account detected: FTMO", "version": "1.0.0"}

@@ -1,0 +1,2 @@
+{"timestamp": "2025-09-11T04:38:56.579007", "level": "INFO", "logger": "trading.trading", "message": "Trading system initialized successfully", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.579241", "level": "INFO", "logger": "trading.trading", "message": "Trade executed: {'id': 'TRADE_001', 'instrument': 'EURUSD', 'action': 'BUY', 'amount': 100000, 'entry_price': 1.1234, 'exit_price': 1.1254, 'pnl': 200.0}", "trade_id": "TRADE_001", "instrument": "EURUSD", "version": "1.0.0"}
