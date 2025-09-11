@@ -1,0 +1,16 @@
+{
+  "symbol": "EURUSD",
+  "timeframe": "1m",
+  "open": 1.1000,
+  "high": 1.1015,
+  "low": 1.0985,
+  "close": 1.1010,
+  "volume": 1500,
+  "liquidity_sweep_high": 1,
+  "order_block": 1,
+  "pin_bar": 0,
+  "ma_5_1m": 1.1008,
+  "ma_20_1m": 1.0995,
+  "rsi_14": 68,
+  "volatility_1m": 0.0018
+}

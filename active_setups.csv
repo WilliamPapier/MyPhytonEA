@@ -1,0 +1,5 @@
+id,symbol,timeframe,probability,recommendation,entry_price,timestamp,pattern,signal_strength
+EURUSD_20250911_042846,EURUSD,1m,0.5,ignore,1.101,2025-09-11T04:28:46.638621,high_close_liquidity_sweep_high_order_block_uptrend,weak
+EURUSD_20250911_043310,EURUSD,1m,0.5,ignore,1.101,2025-09-11T04:33:10.327548,high_close_liquidity_sweep_high_uptrend,weak
+GBPUSD_20250911_043310,GBPUSD,5m,0.5,ignore,1.252,2025-09-11T04:33:10.329579,high_close_liquidity_sweep_high_order_block_uptrend,weak
+USDJPY_20250911_043310,USDJPY,1m,0.5,ignore,150.15,2025-09-11T04:33:10.331403,high_close_order_block_pin_bar_uptrend,weak
