@@ -17,8 +17,8 @@ import smtplib
 import json
 from datetime import datetime, timedelta
 from typing import Dict, Any, List, Optional
-from email.mime.text import MimeText
-from email.mime.multipart import MimeMultipart
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
 from dataclasses import dataclass
 from advanced_logging import log_info, log_error, log_warning
 import queue
@@ -186,14 +186,14 @@ class NotificationManager:
             return
         
         try:
-            msg = MimeMultipart()
+            msg = MIMEMultipart()
             msg['From'] = self.config.email_username
             msg['To'] = ', '.join(self.config.email_to)
             msg['Subject'] = notification.get('title', 'Trading Alert')
             
             # Create HTML email body
             body = self._format_email_body(notification)
-            msg.attach(MimeText(body, 'html'))
+            msg.attach(MIMEText(body, 'html'))
             
             # Send email
             server = smtplib.SMTP(self.config.email_smtp_server, self.config.email_smtp_port)

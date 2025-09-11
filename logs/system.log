@@ -1,0 +1,21 @@
+{"timestamp": "2025-09-11T04:36:46.511486", "level": "INFO", "logger": "trading.system", "message": "Resource monitoring started", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:36:46.511684", "level": "INFO", "logger": "trading.system", "message": "Added process to monitoring: python", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:36:46.511786", "level": "INFO", "logger": "trading.system", "message": "Added process to monitoring: terminal64", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.577861", "level": "INFO", "logger": "trading.system", "message": "Resource monitoring started", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578053", "level": "INFO", "logger": "trading.system", "message": "Added process to monitoring: python", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.578165", "level": "INFO", "logger": "trading.system", "message": "Added process to monitoring: terminal64", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.679492", "level": "INFO", "logger": "trading.system", "message": "[TRADE] New trade opened: BUY EURUSD at 1.1234", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.679618", "level": "INFO", "logger": "trading.system", "message": "[RISK] Daily loss limit at 80%", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.679700", "level": "INFO", "logger": "trading.system", "message": "[PROP_FIRM] FTMO account detected - rules now active", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:56.679770", "level": "INFO", "logger": "trading.system", "message": "[SYSTEM] High CPU usage detected (85%)", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:57.581897", "level": "INFO", "logger": "trading.system", "message": "Prop firm simulation enabled: ftmo", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:38:57.582622", "level": "INFO", "logger": "trading.system", "message": "Starting backtest: 745 bars from 2024-01-01 00:00:00 to 2024-02-01 00:00:00", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:06.765347", "level": "INFO", "logger": "trading.system", "message": "Resource monitoring started", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:06.765535", "level": "INFO", "logger": "trading.system", "message": "Added process to monitoring: python", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:06.765627", "level": "INFO", "logger": "trading.system", "message": "Added process to monitoring: terminal64", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:07.580782", "level": "INFO", "logger": "trading.system", "message": "Starting MyPhytonEA Trading System v2.0", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:59.944136", "level": "WARNING", "logger": "trading.system", "message": "Resource alert: Network connectivity lost (3 consecutive failures)", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:39:59.944345", "level": "INFO", "logger": "trading.system", "message": "[SYSTEM] Network connectivity lost (3 consecutive failures)", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:40:07.551566", "level": "INFO", "logger": "trading.system", "message": "[SYSTEM] System health critical: Network connectivity issues", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:41:07.612980", "level": "INFO", "logger": "trading.system", "message": "[SYSTEM] System health critical: Network connectivity issues", "version": "1.0.0"}
+{"timestamp": "2025-09-11T04:42:07.579993", "level": "INFO", "logger": "trading.system", "message": "[SYSTEM] System health critical: Network connectivity issues", "version": "1.0.0"}
