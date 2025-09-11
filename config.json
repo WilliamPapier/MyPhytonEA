@@ -1,0 +1,18 @@
+{
+  "probability_threshold": 0.4,
+  "risk_per_trade_percent": 2,
+  "max_simultaneous_trades": 3,
+  "dynamic_lotsize_enabled": true,
+  "pyramiding_enabled": true,
+  "trailing_stop_enabled": true,
+  "trailing_stop_method": "atr",
+  "trailing_stop_atr_multiplier": 1.5,
+  "trailing_stop_fixed_pips": 20,
+  "optimal_tp_enabled": true,
+  "hold_time_hours": 8,
+  "min_setup_probability": 0.6,
+  "account_balance": 10000.0,
+  "equity_growth_threshold": 0.1,
+  "max_daily_risk_percent": 6,
+  "last_updated": "2025-09-11T04:29:43.497682"
+}
